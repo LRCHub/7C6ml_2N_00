@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Moon Flow",
   "base_artist": "NOMAK",
-  "createdAt": "2026-03-20T14:19:27.750740Z",
+  "createdAt": "2026-03-20T16:02:09.566622Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -267,6 +267,15 @@
       "artist": "Neil Cicierega",
       "has_synced": false,
       "path": "select/33_Smooth_Flow_Neil_Cicierega.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Moon Flow",
+      "artist": "NOMAK",
+      "has_synced": false,
+      "path": "select/localdb_01_Moon_Flow_NOMAK.txt",
+      "repo_name": "7C6ml_2N_00"
     }
   ]
 }
